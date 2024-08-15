@@ -6,6 +6,7 @@ module.exports = {
       fontFamily: {
         inter: ['"Inter"', 'sans-serif'],
         poppins: [ '"Poppins"', 'sans-serif'],
+        krona:['"Krona One"', 'sans-serif'],
       },
       colors: {
         brandBlue: '#081b29',
